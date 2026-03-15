@@ -11,6 +11,8 @@ int get_america_temperature(void *ptr,int len)
     return sum;
 
 }
+int
+//bgfdb
 int get_china_temperature(void *ptr,int len,int temp)
 {
     int*arr=(int*)ptr;
@@ -24,3 +26,5 @@ int get_china_temperature(void *ptr,int len,int temp)
     return sum;
 
 }
+wdnmd
+我叼你的

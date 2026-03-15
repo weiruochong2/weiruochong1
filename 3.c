@@ -8,6 +8,7 @@ int main()
   p[3]=4;
   int temp=get_america_temperature(p,4);
   printf("%d",temp);
-  free(p);
-  p=NULL;
-}
+  free(p); 
+  p=NULL;  
+} sdfsdfdf
+tyasdfasdfasdfasdf
